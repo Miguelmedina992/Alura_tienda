@@ -5,7 +5,6 @@ import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import com.latam.alura.tienda.modelo.Categoria;
 import com.latam.alura.tienda.modelo.Producto;
 
 public class ProductoDao {
